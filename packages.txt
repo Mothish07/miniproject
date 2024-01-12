@@ -1,0 +1,7 @@
+pip install kivy
+pip install openai[]
+pip install pytesseract Pillow
+sudo apt-get install tesseract-ocr[engine]
+pip install SpeechRecognition
+pip install pyaudio[google api for  SpeechRecognition]
+
